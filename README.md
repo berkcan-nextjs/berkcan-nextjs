@@ -31,7 +31,7 @@ With **3+ years of professional engineering** experience, I specialize in archit
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>🌐 <a href="https://kepguide.com">Kepguide</a></h4>
       <p><em>Large-scale Local Discovery Platform</em></p>
       <ul>
@@ -40,17 +40,8 @@ With **3+ years of professional engineering** experience, I specialize in archit
         <li>90+ Core Web Vitals</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
-      <h4>🏢 <a href="https://volcanos.com.tr">Volcanos</a></h4>
-      <p><em>Performance-Driven Corporate App</em></p>
-      <ul>
-        <li>React / Tailwind / Framer</li>
-        <li>Industrial UI/UX Design</li>
-        <li>Conversion Optimized</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏗️ <a href="https://keporganization.com">Kep Org</a></h4>
+    <td width="50%" valign="top">
+      <h4>🏗️ <a href="https://keporganization.com">Kep Organization</a></h4>
       <p><em>Scalable UI Architecture</em></p>
       <ul>
         <li>Design System Engineering</li>
