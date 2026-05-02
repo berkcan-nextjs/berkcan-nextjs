@@ -1,29 +1,25 @@
 <div align="center">
-  <img src="github_profile_banner_1777728250209.png" width="100%" alt="Berk - Frontend Engineer" />
-  
-  <br />
-
-  <h1>Engineering Premium Digital Experiences</h1>
+  <h1>🚀 Engineering Scalable & Performance-First Web Architectures</h1>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   </p>
 
   <p align="center">
-    <strong>Senior Frontend Engineer | UI Architect | SEO Specialist</strong>
+    <strong>Senior Frontend Engineer | UI/UX Architect | Performance & SEO Specialist</strong>
     <br />
-    <em>Bridging the gap between cutting-edge design and industrial-grade engineering.</em>
+    <em>3+ Years of Professional Experience in the European Tech Ecosystem</em>
   </p>
 </div>
 
 ---
 
-### ⚡ Professional Summary
+### ⚡ Professional Focus
 
-With **3+ years of professional engineering** experience, I specialize in architecting high-performance web applications within the **Next.js** ecosystem. My approach combines technical rigor with a deep understanding of **Core Web Vitals**, **SEO strategy**, and **Scalable Design Systems**. I build for the future, ensuring every line of code serves both the user and the business.
+Specializing in **high-performance web applications**, I bridge the gap between complex business logic and premium user experiences. My expertise lies in architecting scalable frontend systems using **Next.js** and **TypeScript**, with a rigorous focus on **Core Web Vitals**, **Technical SEO**, and **Industrial-Grade UI**.
 
 ---
 
@@ -35,18 +31,18 @@ With **3+ years of professional engineering** experience, I specialize in archit
       <h4>🌐 <a href="https://kepguide.com">Kepguide</a></h4>
       <p><em>Large-scale Local Discovery Platform</em></p>
       <ul>
-        <li>Next.js / TS / GEO-Logic</li>
-        <li>Advanced SEO Architecture</li>
-        <li>90+ Core Web Vitals</li>
+        <li>Next.js / TypeScript / GEO-Logic</li>
+        <li>Advanced SEO & Meta-Architecture</li>
+        <li>Optimization for 1M+ Data Points</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🏗️ <a href="https://keporganization.com">Kep Organization</a></h4>
       <p><em>Scalable UI Architecture</em></p>
       <ul>
-        <li>Design System Engineering</li>
-        <li>Component Library Dev</li>
-        <li>Corporate Scalability</li>
+        <li>Enterprise Design System Engineering</li>
+        <li>Component Library Development</li>
+        <li>Cross-Brand Corporate Scalability</li>
       </ul>
     </td>
   </tr>
@@ -54,32 +50,32 @@ With **3+ years of professional engineering** experience, I specialize in archit
 
 ---
 
-### 🛠️ Technical Stack & Expertise
+### 🛠️ Technical Arsenal
 
 <details open>
-  <summary><b>Core Frameworks & Languages</b></summary>
+  <summary><b>Core Ecosystem</b></summary>
   <p>
-    <code>Next.js (App/Pages)</code>, <code>React.js</code>, <code>TypeScript</code>, <code>ES6+ JavaScript</code>, <code>HTML5/CSS3</code>
+    <code>Next.js (App/Pages Router)</code>, <code>React.js</code>, <code>TypeScript</code>, <code>Tailwind CSS</code>, <code>Framer Motion</code>
   </p>
 </details>
 
-<details open>
-  <summary><b>Engineering & Optimization</b></summary>
+<details>
+  <summary><b>Data & Optimization</b></summary>
   <p>
-    <code>TanStack Query</code>, <code>Tailwind CSS</code>, <code>Framer Motion</code>, <code>SEO (Technical/On-page)</code>, <code>Core Web Vitals</code>
+    <code>TanStack Query</code>, <code>Context API</code>, <code>Technical SEO</code>, <code>Core Web Vitals</code>, <code>State Management</code>
   </p>
 </details>
 
-<details open>
-  <summary><b>Workflow & Tools</b></summary>
+<details>
+  <summary><b>DevOps & Tools</b></summary>
   <p>
-    <code>Git/GitHub</code>, <code>Vercel/Netlify</code>, <code>Figma (UI/UX)</code>, <code>Postman</code>, <code>CI/CD Actions</code>
+    <code>Git/GitHub</code>, <code>Vercel</code>, <code>GitHub Actions (CI/CD)</code>, <code>Postman</code>, <code>Figma</code>
   </p>
 </details>
 
 ---
 
-### 📈 Activity & Insights
+### 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shitofriv7&show_icons=true&theme=transparent&title_color=0070f3&text_color=ffffff&icon_color=0070f3&border_color=00000000&bg_color=00000000" alt="GitHub Stats" width="48%" />
@@ -88,16 +84,16 @@ With **3+ years of professional engineering** experience, I specialize in archit
 
 ---
 
-### 🤝 Strategic Partnerships
+### 🤝 Strategic Collaboration
 
-I am currently open to **high-impact opportunities** within the European tech market, specifically focusing on **remote** or **relocation** roles where I can contribute to complex frontend architectures.
+Open to **high-impact opportunities** within the European market. Let's build something exceptional.
 
-- 📬 **Direct:** [berk@kepsoftware.com](mailto:berk@kepsoftware.com)
-- 🔗 **Network:** [linkedin.com/in/berkdev](https://linkedin.com/in/berkdev)
+- 📧 **Direct:** [berk@kepsoftware.com](mailto:berk@kepsoftware.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/berkdev](https://linkedin.com/in/berkdev)
 - 🚀 **Portfolio:** [sahsimaait.dev](https://sahsimaait.dev)
 
 ---
 
 <div align="center">
-  <sub>Precision is not an act, it is a habit. Built with 💙 by Berk.</sub>
+  <sub>Built for Performance. Engineered for Scalability.</sub>
 </div>
